@@ -1,13 +1,15 @@
 # React Employee Directory
+ 
 
-#### *The exercice is adapted to use Hooks (converted all Class components to Function components. useContext instead pass props. Use useEffect)* 
+## Example: https://employeelist-react.herokuapp.com/
 
-## Example: 
+
 Create a employee directory with React where the user will be able to view my entire employee directory at once so that I have quick access to their information.
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+#### *The exercice is adapted to use Hooks (converted all Class components to Function components. useContext instead pass props. Use useEffect)* 
 
 ## API used:
 * randomuser.me 
