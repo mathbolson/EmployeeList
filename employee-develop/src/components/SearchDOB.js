@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
-import "../styles/SearchName.css";
+// import "../styles/SearchBox.css";
 import DataAreaContext from "../utils/DataAreaContext";
 
 
-export default SearchName;
+export default SearchDOB;
